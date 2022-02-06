@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @rvi122
+- 👀 I’m interested in Data analyst, space exploration, AI, ML...
+- 🌱 I’m currently learning Pythone for data analyst...
+- 💞️ I’m looking to collaborate on data analystand app building...
+- 📫 How to reach me rvi.ako121@gmail.com...
+
+<!---
+rvi122/rvi122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+
